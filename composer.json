@@ -1,5 +1,6 @@
 {
     "name": "typo3/minimal",
+    "type": "metapackage",
     "description": "Minimal required set of TYPO3 extensions",
     "license": "GPL-2.0+",
     "authors": [
