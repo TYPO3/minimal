@@ -34,6 +34,9 @@
         "typo3/cms-recordlist": "9.0.*@dev",
         "typo3/cms-saltedpasswords": "9.0.*@dev"
     },
+    "replace": {
+        "typo3/cms": "*"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "9.0.x-dev"
