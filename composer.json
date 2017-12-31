@@ -22,22 +22,18 @@
         "news": "nntp://lists.typo3.org"
     },
     "require": {
-        "typo3/cms-backend": "9.0.*@dev",
-        "typo3/cms-core": "9.0.*@dev",
-        "typo3/cms-documentation": "9.0.*@dev",
-        "typo3/cms-extbase": "9.0.*@dev",
-        "typo3/cms-extensionmanager": "9.0.*@dev",
-        "typo3/cms-filelist": "9.0.*@dev",
-        "typo3/cms-fluid": "9.0.*@dev",
-        "typo3/cms-frontend": "9.0.*@dev",
-        "typo3/cms-install": "9.0.*@dev",
-        "typo3/cms-lang": "9.0.*@dev",
-        "typo3/cms-recordlist": "9.0.*@dev",
-        "typo3/cms-saltedpasswords": "9.0.*@dev"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "9.0.x-dev"
-        }
+        "typo3/cms-backend": "^8.7.9",
+        "typo3/cms-core": "^8.7.9",
+        "typo3/cms-cshmanual": "^8.7.9",
+        "typo3/cms-extbase": "^8.7.9",
+        "typo3/cms-extensionmanager": "^8.7.9",
+        "typo3/cms-filelist": "^8.7.9",
+        "typo3/cms-fluid": "^8.7.9",
+        "typo3/cms-frontend": "^8.7.9",
+        "typo3/cms-install": "^8.7.9",
+        "typo3/cms-lang": "^8.7.9",
+        "typo3/cms-recordlist": "^8.7.9",
+        "typo3/cms-saltedpasswords": "^8.7.9",
+        "typo3/cms-sv": "^8.7.9"
     }
 }
