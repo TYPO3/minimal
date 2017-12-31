@@ -22,18 +22,20 @@
         "news": "nntp://lists.typo3.org"
     },
     "require": {
-        "typo3/cms-backend": "^8.7.9",
-        "typo3/cms-core": "^8.7.9",
-        "typo3/cms-cshmanual": "^8.7.9",
-        "typo3/cms-extbase": "^8.7.9",
-        "typo3/cms-extensionmanager": "^8.7.9",
-        "typo3/cms-filelist": "^8.7.9",
-        "typo3/cms-fluid": "^8.7.9",
-        "typo3/cms-frontend": "^8.7.9",
-        "typo3/cms-install": "^8.7.9",
-        "typo3/cms-lang": "^8.7.9",
-        "typo3/cms-recordlist": "^8.7.9",
-        "typo3/cms-saltedpasswords": "^8.7.9",
-        "typo3/cms-sv": "^8.7.9"
+        "typo3/cms": "^7.6.21",
+        "typo3/cms-backend": "^7.6.21",
+        "typo3/cms-core": "^7.6.21",
+        "typo3/cms-cshmanual": "^7.6.21",
+        "typo3/cms-extbase": "^7.6.21",
+        "typo3/cms-extensionmanager": "^7.6.21",
+        "typo3/cms-filelist": "^7.6.21",
+        "typo3/cms-fluid": "^7.6.21",
+        "typo3/cms-frontend": "^7.6.21",
+        "typo3/cms-install": "^7.6.21",
+        "typo3/cms-lang": "^7.6.21",
+        "typo3/cms-recordlist": "^7.6.21",
+        "typo3/cms-saltedpasswords": "^7.6.21",
+        "typo3/cms-sv": "^7.6.21",
+        "typo3/cms-t3skin": "^7.6.21"
     }
 }
