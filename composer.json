@@ -22,21 +22,21 @@
         "news": "nntp://lists.typo3.org"
     },
     "require": {
-        "typo3/cms-backend": "9.4.*@dev",
-        "typo3/cms-core": "9.4.*@dev",
-        "typo3/cms-documentation": "9.4.*@dev",
-        "typo3/cms-extbase": "9.4.*@dev",
-        "typo3/cms-extensionmanager": "9.4.*@dev",
-        "typo3/cms-filelist": "9.4.*@dev",
-        "typo3/cms-fluid": "9.4.*@dev",
-        "typo3/cms-frontend": "9.4.*@dev",
-        "typo3/cms-install": "9.4.*@dev",
-        "typo3/cms-recordlist": "9.4.*@dev",
-        "typo3/cms-saltedpasswords": "9.4.*@dev"
+        "typo3/cms-backend": "9.3.*@dev",
+        "typo3/cms-core": "9.3.*@dev",
+        "typo3/cms-documentation": "9.3.*@dev",
+        "typo3/cms-extbase": "9.3.*@dev",
+        "typo3/cms-extensionmanager": "9.3.*@dev",
+        "typo3/cms-filelist": "9.3.*@dev",
+        "typo3/cms-fluid": "9.3.*@dev",
+        "typo3/cms-frontend": "9.3.*@dev",
+        "typo3/cms-install": "9.3.*@dev",
+        "typo3/cms-recordlist": "9.3.*@dev",
+        "typo3/cms-saltedpasswords": "9.3.*@dev"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "9.4.x-dev"
+            "dev-master": "9.3.x-dev"
         }
     }
 }
