@@ -12,4 +12,4 @@ with the required entry scripts.
 
 Additional TYPO3 core extensions can subsequently be added with composer.
 
-E.g.: `composer require typo3/cms-felogin` 
+E.g.: `composer require typo3/cms-felogin`
