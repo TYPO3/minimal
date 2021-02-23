@@ -22,14 +22,14 @@
         "news": "nntp://lists.typo3.org"
     },
     "require": {
-        "typo3/cms-backend": "^11.0",
-        "typo3/cms-core": "^11.0",
-        "typo3/cms-extbase": "^11.0",
-        "typo3/cms-extensionmanager": "^11.0",
-        "typo3/cms-filelist": "^11.0",
-        "typo3/cms-fluid": "^11.0",
-        "typo3/cms-frontend": "^11.0",
-        "typo3/cms-install": "^11.0",
-        "typo3/cms-recordlist": "^11.0"
+        "typo3/cms-backend": "^11.1",
+        "typo3/cms-core": "^11.1",
+        "typo3/cms-extbase": "^11.1",
+        "typo3/cms-extensionmanager": "^11.1",
+        "typo3/cms-filelist": "^11.1",
+        "typo3/cms-fluid": "^11.1",
+        "typo3/cms-frontend": "^11.1",
+        "typo3/cms-install": "^11.1",
+        "typo3/cms-recordlist": "^11.1"
     }
 }
