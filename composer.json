@@ -22,14 +22,14 @@
         "news": "nntp://lists.typo3.org"
     },
     "require": {
-        "typo3/cms-backend": "dev-master",
-        "typo3/cms-core": "dev-master",
-        "typo3/cms-extbase": "dev-master",
-        "typo3/cms-extensionmanager": "dev-master",
-        "typo3/cms-filelist": "dev-master",
-        "typo3/cms-fluid": "dev-master",
-        "typo3/cms-frontend": "dev-master",
-        "typo3/cms-install": "dev-master",
-        "typo3/cms-recordlist": "dev-master"
+        "typo3/cms-backend": "dev-main",
+        "typo3/cms-core": "dev-main",
+        "typo3/cms-extbase": "dev-main",
+        "typo3/cms-extensionmanager": "dev-main",
+        "typo3/cms-filelist": "dev-main",
+        "typo3/cms-fluid": "dev-main",
+        "typo3/cms-frontend": "dev-main",
+        "typo3/cms-install": "dev-main",
+        "typo3/cms-recordlist": "dev-main"
     }
 }
