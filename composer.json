@@ -29,7 +29,6 @@
         "typo3/cms-filelist": "^12.0",
         "typo3/cms-fluid": "^12.0",
         "typo3/cms-frontend": "^12.0",
-        "typo3/cms-install": "^12.0",
-        "typo3/cms-recordlist": "^12.0"
+        "typo3/cms-install": "^12.0"
     }
 }
