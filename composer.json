@@ -25,7 +25,6 @@
         "typo3/cms-backend": "dev-main",
         "typo3/cms-core": "dev-main",
         "typo3/cms-extbase": "dev-main",
-        "typo3/cms-extensionmanager": "dev-main",
         "typo3/cms-filelist": "dev-main",
         "typo3/cms-fluid": "dev-main",
         "typo3/cms-frontend": "dev-main",
