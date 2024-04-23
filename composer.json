@@ -22,11 +22,11 @@
         "news": "nntp://lists.typo3.org"
     },
     "require": {
-        "typo3/cms-backend": "^13.1",
-        "typo3/cms-core": "^13.1",
-        "typo3/cms-extbase": "^13.1",
-        "typo3/cms-filelist": "^13.1",
-        "typo3/cms-fluid": "^13.1",
-        "typo3/cms-frontend": "^13.1"
+        "typo3/cms-backend": "13.1.x@dev",
+        "typo3/cms-core": "13.1.x@dev",
+        "typo3/cms-extbase": "13.1.x@dev",
+        "typo3/cms-filelist": "13.1.x@dev",
+        "typo3/cms-fluid": "13.1.x@dev",
+        "typo3/cms-frontend": "13.1.x@dev"
     }
 }
